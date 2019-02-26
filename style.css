@@ -1,0 +1,26 @@
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100; }
+
+.jumbotron {
+  background-image: url(/img/Road.jpeg);
+  background-repeat: none;
+  background-size: cover;
+  background-position: center; }
+  .jumbotron h1 {
+    color: #ffffff; }
+  .jumbotron h2 {
+    color: white; }
+
+#WelcomeContent {
+  background-image: url(/img/whitebackground.jpg);
+  background-size: cover; }
+
+html {
+  scroll-behavior: smooth; }
+
+html, body {
+  height: 100% !important;
+  position: relative; }

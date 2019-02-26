@@ -1,0 +1,12 @@
+@import 'menu';
+@import 'jumbotron';
+@import 'Welcome';
+
+html {
+    scroll-behavior: smooth;
+  }
+
+html, body{
+    height: 100% !important;    
+    position: relative;
+}
