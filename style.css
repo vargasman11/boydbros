@@ -46,10 +46,10 @@
 /*                                     TAN                                    */
 /* ========================================================================== */
 .text-tan {
-  color: #cdbcb2; }
+  color: #cdbcb2 !important; }
 
 .bg-tan {
-  background-color: #cdbcb2; }
+  background-color: #cdbcb2 !important; }
 
 html {
   scroll-behavior: smooth;
