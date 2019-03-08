@@ -10,12 +10,12 @@
 /* ========================================================================== */
 // text color
 .text-blue{
-    color: #223e99;
+    color: #223e99 !important;
 }
 
 // background-color
 .bg-blue{
-    background-color:#223e99;
+    background-color:#223e99 !important;
   }
 
 /* ========================================================================== */
@@ -24,9 +24,23 @@
 
 // text color
 .text-red{
-    color:#fd3c3c;
+    color:#fd3c3c !important;
 }
 // background color
 .bg-red{
-    background-color: #fd3c3c;
+    background-color: #fd3c3c !important;
+}
+
+/* ========================================================================== */
+/*                                     TAN                                    */
+/* ========================================================================== */
+
+// text color
+.text-tan{
+    color:#cdbcb2;
+}
+
+// background color
+.bg-tan{
+    background-color: #cdbcb2;
 }

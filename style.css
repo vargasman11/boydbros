@@ -4,6 +4,9 @@
   width: 100%;
   z-index: 100; }
 
+.dropdown-item:hover {
+  background-color: #cdbcb2; }
+
 .jumbotron {
   background-image: url(img/Road.jpeg);
   background-repeat: none;
@@ -25,19 +28,28 @@
 /*                                    BLUE                                    */
 /* ========================================================================== */
 .text-blue {
-  color: #223e99; }
+  color: #223e99 !important; }
 
 .bg-blue {
-  background-color: #223e99; }
+  background-color: #223e99 !important; }
 
 /* ========================================================================== */
 /*                                     RED                                    */
 /* ========================================================================== */
 .text-red {
-  color: #fd3c3c; }
+  color: #fd3c3c !important; }
 
 .bg-red {
-  background-color: #fd3c3c; }
+  background-color: #fd3c3c !important; }
+
+/* ========================================================================== */
+/*                                     TAN                                    */
+/* ========================================================================== */
+.text-tan {
+  color: #cdbcb2; }
+
+.bg-tan {
+  background-color: #cdbcb2; }
 
 html {
   scroll-behavior: smooth;

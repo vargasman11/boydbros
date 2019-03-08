@@ -4,3 +4,8 @@
     width: 100%;
     z-index: 100;
   }
+
+  // This makes the hover on the mobile menu tan
+  .dropdown-item:hover{
+    background-color: #cdbcb2;
+  }
