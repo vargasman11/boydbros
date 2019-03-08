@@ -5,7 +5,7 @@
   z-index: 100; }
 
 .jumbotron {
-  background-image: url(/img/Road.jpeg);
+  background-image: url(img/Road.jpeg);
   background-repeat: none;
   background-size: cover;
   background-position: center; }
@@ -15,7 +15,7 @@
     color: white; }
 
 #WelcomeContent {
-  background-image: url(/img/whitebackground.jpg);
+  background-image: url(img/whitebackground.jpg);
   background-size: cover; }
 
 /* ========================================================================== */
