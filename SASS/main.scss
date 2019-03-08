@@ -1,12 +1,16 @@
 @import 'menu';
 @import 'jumbotron';
 @import 'Welcome';
+@import 'utilities/colors';
 
 html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
   }
 
 html, body{
-    height: 100% !important;    
+    height: 100% !important;  
+    width: 100%;  
     position: relative;
 }
+

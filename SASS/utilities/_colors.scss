@@ -1,49 +1,32 @@
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 100; }
-
-.jumbotron {
-  background-image: url(/img/Road.jpeg);
-  background-repeat: none;
-  background-size: cover;
-  background-position: center; }
-  .jumbotron h1 {
-    color: #ffffff; }
-  .jumbotron h2 {
-    color: white; }
-
-#WelcomeContent {
-  background-image: url(/img/whitebackground.jpg);
-  background-size: cover; }
-
 /* ========================================================================== */
 /*                                   COLORS                                   */
 /* ========================================================================== */
+
+    // Here are the custom color utilites i will be using on top of Boostrap
+
+
 /* ========================================================================== */
 /*                                    BLUE                                    */
 /* ========================================================================== */
-.text-blue {
-  color: #223e99; }
+// text color
+.text-blue{
+    color: #223e99;
+}
 
-.bg-blue {
-  background-color: #223e99; }
+// background-color
+.bg-blue{
+    background-color:#223e99;
+  }
 
 /* ========================================================================== */
 /*                                     RED                                    */
 /* ========================================================================== */
-.text-red {
-  color: #fd3c3c; }
 
-.bg-red {
-  background-color: #fd3c3c; }
-
-html {
-  scroll-behavior: smooth;
-  overflow-x: hidden; }
-
-html, body {
-  height: 100% !important;
-  width: 100%;
-  position: relative; }
+// text color
+.text-red{
+    color:#fd3c3c;
+}
+// background color
+.bg-red{
+    background-color: #fd3c3c;
+}
