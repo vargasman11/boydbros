@@ -7,6 +7,9 @@
 .dropdown-item:hover {
   background-color: #cdbcb2; }
 
+.marginClass {
+  margin-top: 80px; }
+
 .jumbotron {
   background-image: url(img/Road.jpeg);
   background-repeat: none;
@@ -53,9 +56,12 @@
 
 html {
   scroll-behavior: smooth;
-  overflow-x: hidden; }
-
-html, body {
+  overflow-x: hidden;
   height: 100% !important;
-  width: 100%;
+  width: 100% !important;
+  position: relative; }
+
+body {
+  height: 100% !important;
+  width: 100% !important;
   position: relative; }
