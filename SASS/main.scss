@@ -2,17 +2,30 @@
 @import 'jumbotron';
 @import 'Welcome';
 @import 'utilities/colors';
+@import 'pages/aboutUs';
+@import 'pages/services';
 
 html {
     scroll-behavior: smooth;
-    overflow-x: hidden;
-    height: 100% !important;
+    overflow-x: hidden !important;
+    min-height: 100% !important;
     width: 100% !important;
     position: relative;
   }
 
  body{
-    height: 100% !important;  
+    min-height: 100% !important;  
     width: 100% !important;  
-    position: relative;
+    overflow-x: hidden !important;
+
+}
+
+#footer{
+  // position: absolute;
+  // display: block;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  // width: 100%;
+  background-color: #223e99 !important; 
 }

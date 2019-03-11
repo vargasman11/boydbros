@@ -18,7 +18,6 @@
 </head>
 
 <body id="body">
-
     <!-- ======================================================================= -->
     <!--                                TOP LOGO                                 -->
     <!-- ======================================================================= -->
@@ -34,7 +33,7 @@
     <!--                                  MENU                                   -->
     <!-- ======================================================================= -->
     <nav class="nav nav-pills bg-blue  justify-content-center d-none d-md-flex" id="navbar">
-        <a href="#" class="nav-link text-white">Home</a>
+        <a href="index.php" class="nav-link text-white">Home</a>
 
         <!-- about -->
         <a href="#" class="nav-link text-white dropdown d-flex p-0">
@@ -45,8 +44,8 @@
                 </a>
 
                 <div class="dropdown-menu" aria-labelledby="#AboutMenu">
-                    <a class="dropdown-item" href="#">Mission</a>
-                    <a class="dropdown-item" href="#">About Us</a>
+                    <a class="dropdown-item" href="index.php#mission">Mission</a>
+                    <a class="dropdown-item" href= "aboutUs.php">About Us</a>
 
                 </div>
             </div>
@@ -60,10 +59,10 @@
                 </a>
 
                 <div class="dropdown-menu" aria-labelledby="#ServicesMenu">
-                    <a class="dropdown-item" href="#">Load Tracking</a>
-                    <a class="dropdown-item" href="#">Request a Quote</a>
-                    <a class="dropdown-item" href="#">Crsedit Application</a>
-                    <a class="dropdown-item" href="#">Service Maps</a>
+                    <a class="dropdown-item" href="http://wnt.boydbros.com/wntv5/Login.wnt" target="_blank">Load Tracking</a>
+                    <a class="dropdown-item" href="services.php#quote">Request a Quote</a>
+                    <a class="dropdown-item" href="services.php#serviceMaps">Service Maps</a>
+                    <a class="dropdown-item" href="services.php#creditApplication">Credit Application</a>
                 </div>
             </div>
         </a>
@@ -216,139 +215,3 @@
             </ul>
         </div>
     </nav>
-
-    <!-- ======================================================================= -->
-    <!--                            WELCOME JUMBOTRON                            -->
-    <!-- ======================================================================= -->
-
-    <div class="jumbotron jumbotron-fluid mb-0 pt-5" id="jumbotronID">
-        <div class="container">
-            <h1 class="text-center display-1 pt-1">Work Hard. Work Smart. Enjoy Life</h1>
-            <br>
-            <h2 class="text-center">Welcome to Boyd Bros. Transportation</h2>
-        </div>
-    </div>
-
-    <!-- ======================================================================= -->
-    <!--                             WELCOME CONTENT                             -->
-    <!-- ======================================================================= -->
-
-    <div class="container-fluid pt-5 pb-5" id="WelcomeContent">
-        <div class="row">
-            <div class="col-12">
-                <h1 class="text-center text-primary text-blue">Welcome to Boyd Bros</h1>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-8 col-sm-12 mx-auto">
-                    <p>Boyd Bros. Transportation Inc., headquartered in Clayton, Alabama, is a flatbed truckload
-                        carrier that operates throughout the eastern two-thirds of the United States, hauling primarily
-                        steel products and building materials. In these markets, Boyd Bros. serves high-volume,
-                        time-sensitive shippers that demand time-definite delivery.</p>
-
-                    <p>From our partners and customers, to our drivers and non-driving staff, one thing is always a
-                        part of the Boyd Bros. culture: DEDICATION.</p>
-
-                    <p>Whether it's a logistics challenge, or freight that requires a little extra hand-holding, Boyd
-                        Bros. is dedicated to making things happen for customers on-time, accident-free, and as
-                        efficiently as possible. Better still, we're good people...just the kind of honest partners
-                        you'd want for your business.</p>
-
-                    <p>Learn more about who we are by exploring our values, discovering our heritage, understanding our
-                        priorities, and meeting our people. We are proud of who we are, and we think you'll be proud to
-                        work with us, too.</p>
-
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- ======================================================================= -->
-    <!--                            MISSION STATEMENT                            -->
-    <!-- ======================================================================= -->
-    <div class="contanier-fluid">
-
-        <div class="row">
-            <div class="col">
-                <h1 class="text-center text-blue">Mission Statement</h1>
-                <p class="lead text-center">Boyd Bros. Transportation will Lead the Trucking Industry by providing the
-                    Absolute Best Service.</p>
-            </div>
-        </div>
-
-        <div class="row justify-content-center">
-            <div class="col-sm-12 col-md-6 col-lg-4 offset-lg-1">
-                <h3 class="text-red">At Boyd Brothers We:</h3>
-                <ul>
-                    <li>Operate Safely and Legally.</li>
-                    <li>Value, Respect, and Trust Our People.</li>
-                    <li>Do What We Say We Will Do.</li>
-                    <li>Require High Standards.</li>
-                    <li>Continuously Improve and Train Our People.</li>
-                    <li>Spend Wisely.</li>
-                    <li>Communicate, Communicate, Communicate.</li>
-                    <li>Work Hard, Work Smart, and Enjoy Life.</li>
-                </ul>
-            </div>
-        </div>
-
-        <div class="row justify-content-center">
-            <div class="col-sm-12 col-md-6 col-lg-5">
-                <ul class="list-group-flush" style="list-style:none">
-                    <li class="list-group-item"><span> <strong>Corporate Address: </strong></span> 3275 Highway 30,
-                        Clayton, AL 36016</li>
-
-                    <li class="list-group-item"><span><strong>Phone: </strong></span> (334) 775-1400</li>
-
-                    <li class="list-group-item"><span><strong>Fax: </strong></span> (334) 775-1432</li>
-                    <li class="list-group-item"><span><strong>Website : </strong></span> www.boydbros.com</li>
-                </ul>
-
-            </div>
-            <div class="col-sm-12 col-md-6 col-lg-5">
-                <ul class="list-group-flush" style="list-style:none">
-                    <li class="list-group-item"><span> <strong>Freight Payment Address: </strong></span> Dept. # 1531
-                        P.O. Box 11407 Birmingham, AL 35246-1531</li>
-
-                    <li class="list-group-item"><span><strong>MC NUMBER :</strong></span> 126305 (158) (159)</li>
-
-                    <li class="list-group-item"><span><strong>FEDERAL ID #</strong></span> (334) 775-1432</li>
-                    <li class="list-group-item"><span><strong>SCAC CODE: </strong></span> BODB</li>
-                    <li class="list-group-item"><span><strong>US DOT# </strong></span> 092321</li>
-                    <li class="list-group-item"><span><strong>D&B # </strong></span> 031554033</li>
-                </ul>
-
-            </div>
-        </div>
-
-    </div>
-
-    <!-- ======================================================================= -->
-    <!--                                 FOOTER                                  -->
-    <!-- ======================================================================= -->
-    <footer class="blog-footer bg-blue">
-        <div class="row justify-content-center">
-            <div class="col-sm-4 align-self-center text-center">
-                <a class="text-light" href="#">HOME</a>
-            </div>
-            <div class="col-sm-4 align-self-center text-center">
-                <img src="img/deskle-logo.png" alt="">
-            </div>
-            <div class="col-sm-4 align-self-center text-center">
-                <img  src="img/smartwayLogo.png" alt="">
-            </div>
-        </div>
-    </footer>
-
-    <!-- Optional JavaScript -->
-    <script src="main.js"></script>
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
-</body>
-
-</html>

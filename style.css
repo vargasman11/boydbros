@@ -54,14 +54,30 @@
 .bg-tan {
   background-color: #cdbcb2 !important; }
 
+#aboutUs {
+  background-image: url(img/whitebackground.jpg);
+  background-size: cover; }
+
+.form-grouping {
+  border: 1px solid #fd3c3c;
+  margin: 2em 0;
+  padding: 1em;
+  border-radius: 10px; }
+
 html {
   scroll-behavior: smooth;
-  overflow-x: hidden;
-  height: 100% !important;
+  overflow-x: hidden !important;
+  min-height: 100% !important;
   width: 100% !important;
   position: relative; }
 
 body {
-  height: 100% !important;
+  min-height: 100% !important;
   width: 100% !important;
-  position: relative; }
+  overflow-x: hidden !important; }
+
+#footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #223e99 !important; }

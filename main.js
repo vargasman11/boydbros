@@ -19,22 +19,22 @@ var logo = document.getElementById('logo');
 var jumbotron = document.getElementById('jumbotronID');
 
 
+
 // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
 function myFunction() {
   if (window.pageYOffset >= sticky) {
-    // logo.style.display = "none";
     navbar.classList.add("sticky");
     navbarMobile.classList.add("sticky");
-    jumbotron.style.marginTop = navbar.offsetTop + 50;
   
-  } else {
+  } else if (window.pageYOffset <= sticky){
     // logo.style.display = "block";
     navbar.classList.remove("sticky");
     navbarMobile.classList.remove("sticky");
-    jumbotron.style.marginTop = "0px";
-
   }
 }
 
 
 
+console.log(navbar.offsetHeight);
+
+// console.log("hello");
