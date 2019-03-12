@@ -75,10 +75,9 @@
                 </a>
 
                 <div class="dropdown-menu" aria-labelledby="EmployeeMenu">
-                    <a class="dropdown-item" href="#">Employee Login</a>
-                    <a class="dropdown-item" href="#">Benefits</a>
-                    <a class="dropdown-item" href="#">MessageBoard</a>
-                    <a class="dropdown-item" href="#">Self Service</a>
+                    <a class="dropdown-item" href="https://www2.boydbros.com/cgi/menu.pgm" target="_blank">Employee Login</a>
+                    <a class="dropdown-item" href="employees.php">Benefits</a>
+                    <a class="dropdown-item" href="https://www2.boydbros.com/hrb/hr100.pgm" target="_blank">MessageBoard</a>
                 </div>
             </div>
         </a>
@@ -92,13 +91,13 @@
                 </a>
 
                 <div class="dropdown-menu" aria-labelledby="CareersMenu">
-                    <a class="dropdown-item" href="#">Driver Opportunities</a>
-                    <a class="dropdown-item" href="#">Another action</a>
+                    <a class="dropdown-item" href="https://drive4boyd.com" target="_blank">Driver Opportunities</a>
+                    <a class="dropdown-item" href="careers.php">Non-Driver Opportunities</a>
                 </div>
             </div>
         </a>
 
-        <a href="#" class="nav-link text-white ">Contact</a>
+        <a href="contact.php" class="nav-link text-white ">Contact</a>
 
         <!-- support -->
         <a href="#" class="nav-link text-white dropdown d-flex p-0">
@@ -109,17 +108,16 @@
                 </a>
 
                 <div class="dropdown-menu" aria-labelledby="#SupportMenu">
-                    <a class="dropdown-item" href="#">Owner operater</a>
-                    <a class="dropdown-item" href="#">Driver Settlement</a>
-                    <a class="dropdown-item" href="#">HelpDesk Remote</a>
+                    <a class="dropdown-item" href="https://www2.boydbros.com/boo/menu.pgm">Owner operater</a>
+                    <a class="dropdown-item" href="http://wnt.boydbros.com/wntv5/Login.wnt">Driver Settlement</a>
+                    <a class="dropdown-item" href="http://download.teamviewer.com/download/version_13x/TeamViewerQS.exe" target="_blank">HelpDesk Remote</a>
                 </div>
             </div>
         </a>
 
 
         <a href="#" class="nav-link text-white">News</a>
-        <a href="#" class="nav-link text-white">Blog</a>
-        <a href="#" class="nav-link text-white">Merch</a>
+        <a href="http://www.shopboyd-bros.com/" class="nav-link text-white">Merch</a>
     </nav>
 
 
