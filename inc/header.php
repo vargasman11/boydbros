@@ -116,8 +116,8 @@
         </a>
 
 
-        <a href="#" class="nav-link text-white">News</a>
-        <a href="http://www.shopboyd-bros.com/" class="nav-link text-white">Merch</a>
+        <a href="news.php" class="nav-link text-white">News</a>
+        <a href="http://www.shopboyd-bros.com/" class="nav-link text-white" target="_blank">Merch</a>
     </nav>
 
 
@@ -136,15 +136,15 @@
         <div class="collapse navbar-collapse" id="navExpansion">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a href="#" class="nav-link text-white">Home</a>
+                    <a href="index.php" class="nav-link text-white">Home</a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class=" dropdown">
                         <a href="#" class="nav-link dropdown-toggle text-white" id="dropdownMenuButton" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">About Us</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="#">Mission</a>
-                            <a class="dropdown-item" href="#">About Us</a>
+                            <a class="dropdown-item" href="index.php#mission">Mission</a>
+                            <a class="dropdown-item" href="aboutUs.php">About Us</a>
                         </div>
                     </a>
                 </li>
@@ -154,10 +154,10 @@
                         <a href="#" class="nav-link dropdown-toggle text-white" id="dropdownMenuButton" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">Services</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="#">Load Tracking</a>
-                            <a class="dropdown-item" href="#">Request a Quote</a>
-                            <a class="dropdown-item" href="#">Credit Application</a>
-                            <a class="dropdown-item" href="#">service Maps</a>
+                            <a class="dropdown-item" href="http://wnt.boydbros.com/wntv5/Login.wnt" target="_blank">Load Tracking</a>
+                            <a class="dropdown-item" href="services.php#quote">Request a Quote</a>
+                            <a class="dropdown-item" href="services.php#creditApplication">Credit Application</a>
+                            <a class="dropdown-item" href="services.php#serviceMaps">service Maps</a>
                         </div>
                     </a>
                 </li>
@@ -168,10 +168,9 @@
                         <a href="#" class="nav-link dropdown-toggle text-white" id="dropdownMenuButton" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">Employees</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="#">Employee Login</a>
-                            <a class="dropdown-item" href="#">Benefits</a>
-                            <a class="dropdown-item" href="#">MessageBoard</a>
-                            <a class="dropdown-item" href="#">Self Service</a>
+                            <a class="dropdown-item" href="https://www2.boydbros.com/cgi/menu.pgm" target="_blank">Employee Login</a>
+                            <a class="dropdown-item" href="employees.php">Benefits</a>
+                            <a class="dropdown-item" href="https://www2.boydbros.com/hrb/hr100.pgm" target="_blank">MessageBoard</a>
                         </div>
                     </a>
                 </li>
@@ -182,14 +181,14 @@
                         <a href="#" class="nav-link dropdown-toggle text-white" id="dropdownMenuButton" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">Careers</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="#">Driver Opportunities</a>
-                            <a class="dropdown-item" href="#">Non Driver Opportunities</a>
+                            <a class="dropdown-item" href="https://drive4boyd.com" target="_blank">Driver Opportunities</a>
+                            <a class="dropdown-item" href="careers.php">Non Driver Opportunities</a>
                         </div>
                     </a>
                 </li>
 
                 <li class="nav-item">
-                    <a href="#" class="nav-link text-white">Contact</a>
+                    <a href="contact.php" class="nav-link text-white">Contact</a>
                 </li>
 
                 <li class="nav-item">
@@ -197,18 +196,18 @@
                         <a href="#" class="nav-link dropdown-toggle text-white" id="dropdownMenuButton" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">Support</a>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <a class="dropdown-item" href="#">Owner Operater</a>
-                            <a class="dropdown-item" href="#">Driver Settlement</a>
-                            <a class="dropdown-item" href="#">HelpDesk Remote</a>
+                            <a class="dropdown-item" href="https://www2.boydbros.com/boo/menu.pgm">Owner Operater</a>
+                            <a class="dropdown-item" href="http://wnt.boydbros.com/wntv5/Login.wnt">Driver Settlement</a>
+                            <a class="dropdown-item" href="http://download.teamviewer.com/download/version_13x/TeamViewerQS.exe" target="_blank">HelpDesk Remote</a>
                         </div>
                     </a>
                 </li>
 
                 <li class="nav-item">
-                    <a href="#" class="nav-link text-white">News / Blog</a>
+                    <a href="news.php" class="nav-link text-white">News</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link text-white">Merchandise</a>
+                    <a href="http://www.shopboyd-bros.com/" target="_blank" class="nav-link text-white">Merchandise</a>
                 </li>
             </ul>
         </div>
