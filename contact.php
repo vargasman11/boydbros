@@ -1,6 +1,6 @@
 <?php include 'inc/header.php' ?>
 
-<div class="container-fluid">
+<div class="container-fluid background-image">
     <div class="row">
         <div class="col-sm-10 col-md-8 col-lg-6 mx-auto">
             <br>

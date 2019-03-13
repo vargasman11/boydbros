@@ -1,9 +1,9 @@
 <?php include 'inc/header.php' ?>
 
-<div class="container-fluid pt-3">
+<div class="container-fluid pt-3 background-image">
     <div class="row">
         <div class="col-sm-10 col-md-8 col-lg-6 mx-auto border-bottom border-secondary">
-            <h1 class="text-blue">Non-Driver Opportunities</h1>
+            <h1 class="text-blue text-center">Non-Driver Opportunities</h1>
             <p class="lead">While our drivers are on the road, there's plenty to do outside of the truck. From
                 logistics and operations to maintenance and driver relationships, Boyd Bros. has a lot to offer.</p>
 

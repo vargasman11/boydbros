@@ -1,6 +1,6 @@
 <?php include 'inc/header.php' ?>
 
-<div class="container-fluid">
+<div class="container-fluid background-image">
 <div class="row">
 <div class="col-sm-10 col-md-8 col-lg-7 mx-auto">
     <h1 class="text-red text-center mt-5">Boyd Brothers News Highlights</h1>

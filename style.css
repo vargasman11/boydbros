@@ -24,6 +24,10 @@
   background-image: url(img/whitebackground.jpg);
   background-size: cover; }
 
+.background-image {
+  background-image: url(img/whitebackground.jpg);
+  background-size: cover; }
+
 /* ========================================================================== */
 /*                                   COLORS                                   */
 /* ========================================================================== */
@@ -81,3 +85,6 @@ body {
   left: 0;
   right: 0;
   background-color: #223e99 !important; }
+
+.form-section {
+  background-color: #fff; }

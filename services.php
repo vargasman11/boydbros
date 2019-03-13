@@ -3,6 +3,7 @@
 <!-- ======================================================================= -->
 <!--                              REQUEST QUOTE                              -->
 <!-- ======================================================================= -->
+<div class="background-image">
 <div class="" id="quote"></div>
 <br>
 <br>
@@ -92,7 +93,7 @@
             <h3 class="text-center text-success">Credit Application</h3>
             <form action="">
                 <!-- Contact Section of form -->
-                <div class="form-grouping">
+                <div class="form-grouping form-section">
                     <h5 class="text-blue text-center p-3">Contact Information</h5>
                     <!-- Applicant -->
                     <div class="form-group row">
@@ -211,7 +212,7 @@
                     </div>
                 </div>
                 <!-- Shipping Information -->
-                <div class="form-grouping">
+                <div class="form-grouping form-section">
                     <h5 class="text-center text-blue p-3">Shipping Info</h5>
                     <div class="form-group row">
                         <!-- shipping address -->
@@ -295,7 +296,7 @@
                     </div>
                 </div>
                 <!-- Additional Information -->
-                <div class="form-grouping">
+                <div class="form-grouping form-section">
                     <h5 class="text-center text-blue p-3">Additional Info</h5>
                     <!-- Credit Amount -->
                     <div class="form-group row">
@@ -321,6 +322,8 @@
             </form>
         </div>
     </div>
+</div>
+
 </div>
 
 
